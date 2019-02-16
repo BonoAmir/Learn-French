@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.learnfrench">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/french"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".numberActivity" android:label="@string/menu_numbers" android:theme="@style/numbersTheme" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".familyMemberActivity" android:label="@string/menu_family_members" android:theme="@style/family_members_theme" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".colorsActivity" android:label="@string/menu_colors" android:theme="@style/colorsTheme" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".phrasesActivity" android:label="@string/menu_phrases" android:theme="@style/phrasesTheme" android:parentActivityName=".MainActivity"></activity>
+    </application>
+
+</manifest>

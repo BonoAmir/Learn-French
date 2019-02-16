@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+<dimen name="item_menu">88dp</dimen>
+
+<dimen name="horizontal_padding">16dp</dimen>
+
+
+    <dimen name="vertical_padding">16dp</dimen>
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="numbersTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/menu_numbers</item>
+        <item name="colorPrimaryDark">#C4DFC6</item>
+        <item name="colorAccent">#657666</item>
+
+    </style>
+
+    <style name="family_members_theme" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">@color/menu_family_members</item>
+        <item name="colorPrimaryDark">#A1A2C2</item>
+        <item name="colorAccent">#BCBDD3</item>
+    </style>
+
+
+    <style name="colorsTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/menu_colors</item>
+        <item name="colorPrimaryDark">#9DDBF8</item>
+        <item name="colorAccent">#B9E5FA</item>
+
+    </style>
+
+    <style name="phrasesTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/menu_phrasaes</item>
+        <item name="colorPrimaryDark">#F7CEC6</item>
+        <item name="colorAccent">#F9DCD6</item>
+
+    </style>
+
+
+
+    <style name="menu_style">
+
+        <item name="android:layout_height">@dimen/item_menu</item>
+
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="android:textColor">#ffffff</item>
+
+        <item name="android:textStyle">bold</item>
+
+        <item name="android:gravity">center_vertical</item>
+
+        <item name="android:paddingLeft">10dp</item>
+
+        ></style>
+
+</resources>

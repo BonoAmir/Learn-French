@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Learn French</string>
+
+    <string name="menu_numbers">Numbers</string>
+
+    <string name="menu_family_members">Family Members</string>
+
+
+    <string name="menu_colors">Colors</string>
+
+
+    <string name="menu_phrases">Phrases</string>
+
+
+</resources>

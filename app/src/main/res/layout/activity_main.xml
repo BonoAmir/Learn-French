@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/menu_numbers"
+        style="@style/menu_style"
+        android:background="@color/menu_numbers"
+        android:text="@string/menu_numbers"
+        />
+
+
+    <TextView
+        style="@style/menu_style"
+        android:id="@+id/menu_family_members"
+        android:background="@color/menu_family_members"
+        android:text="@string/menu_family_members"
+        />
+
+
+    <TextView
+        style="@style/menu_style"
+        android:background="@color/menu_colors"
+        android:id="@+id/menu_colors"
+        android:text="@string/menu_colors"
+        />
+
+
+    <TextView
+       style="@style/menu_style"
+        android:background="@color/menu_phrasaes"
+        android:id="@+id/menu_phrases"
+        android:text="@string/menu_phrases"
+        />
+
+
+</LinearLayout>
