@@ -2,7 +2,7 @@ Android app to help kids to learn numbers , colors , family members and some use
 
 
 
-what did i learn : 
+What I Learned : 
 
 How recyclerview works (adapters,listview)
 
