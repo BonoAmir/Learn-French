@@ -4,8 +4,10 @@ Android app to help kids to learn numbers , colors , family members and some use
 
 What I Learned : 
 
-How recyclerview works (adapters,listview)
+ How recyclerview works (adapters,listview)
 
-how audiomanger works
+ How audiomanger works
+ 
+ 
 
 
