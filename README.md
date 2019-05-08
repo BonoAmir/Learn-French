@@ -9,7 +9,14 @@ What I Learned :
 - How audiomanger works
 
 - Experimenting with some UI components
- 
- 
 
 
+<img src="Screenshot_1557330125.png" width="250">
+
+<img src="Screenshot_1557330127.png" width="250">
+
+<img src="Screenshot_1557330129.png" width="250">
+
+<img src="Screenshot_1557330132.png" width="250">
+
+<img src="Screenshot_1557330135.png" width="250">
